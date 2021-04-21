@@ -165,7 +165,9 @@ def mb():
 		pak()
 	elif bm =='2':
 	    os.system('rm -rf $HOME/B4_Baloch')
-	    os.system('cd $HOME && git clone https://github.com/shabirbaloch125/Baloch')
+	    os.system('cd $HOME && git clone https://github.com/Rana77809/kaleem'
+
+')
 	    cb()
 	    print (logo)
 	    psb('☆10%')
